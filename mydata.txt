@@ -1,3 +1,0 @@
-{"id":"suzaki","msg":"asdas"}
-{"id":"suzaki","msg":"空のtxtファイルには気をつけよう！"}
-{"msg":"s"}
